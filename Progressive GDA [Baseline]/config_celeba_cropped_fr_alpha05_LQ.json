@@ -1,0 +1,12 @@
+{
+  "pathDB": "",
+  "config": {
+    "activation":"LQ",
+    "alphaJumpMode": "custom",
+    "iterAlphaJump": [[],[0],[0],[0],[0],[0]],
+    "alphaJumpVals": [[],[0],[0],[0],[0],[0]],
+    "alphaNJumps":  [0,0,0,0,0,0],
+    "num_conv_layers": 1,
+    "train_prev_layers": false
+  }
+}
